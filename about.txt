@@ -1,0 +1,11 @@
+you need to install 
+python 
+and then in cmd put this command after each command click enter to install the libarys 
+pip install Pillow (this for image)
+pip install opencv-python (this for edit in image)
+pip install tk (this for GUI graphique user interface)
+pip install PySide6 (and this is motion)
+pip install os-sys (and this for check if there a file or not in pc)
+pip install regex (and this to get a vlue from big phrase)
+pip install db-sqlite3 (and this for database)
+pip install DateTime  (and this for time)
